@@ -38,7 +38,8 @@ Imperial College London
 
 
 ## これまでの研究
-写真一枚貼る
+- 動的に変形する表面における光の非対称回折とチェレンコフ放射
+![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/meta2021_Oue.png)
 
 ## Publication list
 ### Under review
