@@ -48,10 +48,14 @@ Imperial College London
 ### Under review
 1. T. J. Wijaya, D. Oue, M. Matsuo Y. Ito, K. Elphick, H. Uchida, M. Inoue & A. Hirohata "Spin Current Generation by a Surface Plasmon Polariton" arXiv: 2004.12348 \[cond-mat.mes-hall\] (2020).
 1. D. Oue & M. Matsuo "Twisting optomechanical cavity," arXiv:1912.06772 \[quant-ph\] (2020).
+1. D. Oue, K. Ding & J. B. Pendry
+"Čerenkov radiation in vacuum from a superluminal grating,"
+arXiv:2105.13681 \[physics.optics\] (2021)
 
 ### Published
-1. D. Oue, K. Ding & J. B. Pendry,
-Phys. Rev. A
+1. D. Oue, K. Ding & J. B. Pendry
+"Calculating spatiotemporally modulated surfaces: A dynamical differential formalism,"
+Phys. Rev. A 104, 013509 (2021).
 1. K. Ding, D. Oue, C. T. Chan & J. B. Pendry "Casimir induced instabilities at metallic surfaces and interfaces," 
 Phys. Rev. Lett., (2020)
 arXiv:2001.09096 \[cond-mat.mes-hall\] .
