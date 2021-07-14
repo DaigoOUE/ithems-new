@@ -86,6 +86,7 @@ J. Phys.: Conf. Ser. 1220,
 ## 私が提供できる(かもしれない)知識
 - 光学実験  
 博士前期課程までは実験をしていたので、ある程度、光学実験のことを知っています。
+![bell_measurement](https://github.com/DaigoOUE/ithems-new/blob/images/bell_measurement.jpeg)
 - 光学理論  
 電磁場のモード解析、グリーン関数、カシミール効果・輻射伝熱、光の放射圧 (e.g. レーザートラップ) など、いろんな光学現象に関する計算ができます🧮
 - Keynote職人
