@@ -30,14 +30,14 @@ Imperial College London
 - 2012.04 -- 2016.03 (首席卒業)  
 大阪大学工学部 応用自然科学科  
 [Supervisor: 河田聡; 光学実験・理論]
-  
-    
     
 ### 研究分野: 光学 (だいたい古典、ときどき量子)
   メタマテリアル、フォトニック結晶、カシミール効果、チェレンコフ放射、光の放射圧
 
 
 ## これまでの研究
+- カシミール効果による金属表面構造不安定性 (w/ Kun Ding, C. T. Chan & J. B. Pendry)
+![film](https://github.com/DaigoOUE/ithems-new/blob/images/film.png)
 - 動的に変形する表面における光の非対称回折とチェレンコフ放射 (w/ Kun Ding & J. B. Pendry)
 ![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/meta2021_Oue.png)
 - 表面プラズモンによるスピン流生成 (w/ M. Matsuo)
@@ -48,6 +48,7 @@ Imperial College London
 ### Under review
 1. T. J. Wijaya, D. Oue, M. Matsuo Y. Ito, K. Elphick, H. Uchida, M. Inoue & A. Hirohata "Spin Current Generation by a Surface Plasmon Polariton" arXiv: 2004.12348 \[cond-mat.mes-hall\] (2020).
 1. D. Oue & M. Matsuo "Twisting optomechanical cavity," arXiv:1912.06772 \[quant-ph\] (2020).
+
 ### Published
 1. D. Oue, K. Ding & J. B. Pendry,
 Phys. Rev. A
@@ -78,16 +79,18 @@ J. Phys.: Conf. Ser. 1220,
 
 
 ## 今後やりたい研究
+- 非平衡グリーン関数を使って光学現象を解析する(特に輻射圧・輻射伝熱の問題)
+- トポロジカル物質・原子層物質・凝縮体などエキゾチックな物質の電磁応答
 
 
 ## 私が提供できる(かもしれない)知識
 - 光学実験  
 博士前期課程までは実験をしていたので、ある程度、光学実験のことを知っています。
 - 光学理論  
-電磁場のモード解析、グリーン関数、カシミール効果・輻射伝熱、光の放射圧など、いろんな光学現象に関する計算ができます🧮
+電磁場のモード解析、グリーン関数、カシミール効果・輻射伝熱、光の放射圧 (e.g. レーザートラップ) など、いろんな光学現象に関する計算ができます🧮
 - Keynote職人
 ![keynote_craftsman](https://github.com/DaigoOUE/ithems-new/blob/images/keynote_craftsman.jpeg)
 - vim  
-  エディタといえばvim
+  エディタといえばvim(他のもの使いこなせないだけ…vimも使いこなせてないけど……)
 - git  
   昔ウェブ制作の仕事をしているときにチラッと使っていました。今では論文執筆のときにも役に立つツールとして使っています。
