@@ -38,8 +38,11 @@ Imperial College London
 
 
 ## これまでの研究
-- 動的に変形する表面における光の非対称回折とチェレンコフ放射
+- 動的に変形する表面における光の非対称回折とチェレンコフ放射 (w/ Kun Ding & J. B. Pendry)
 ![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/meta2021_Oue.png)
+- 表面プラズモンによるスピン流生成
+![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/js_spp.png)
+
 
 ## Publication list
 ### Under review
