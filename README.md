@@ -40,8 +40,8 @@ Imperial College London
 ## これまでの研究
 - 動的に変形する表面における光の非対称回折とチェレンコフ放射 (w/ Kun Ding & J. B. Pendry)
 ![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/meta2021_Oue.png)
-- 表面プラズモンによるスピン流生成
-![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/js_spp.png)
+- 表面プラズモンによるスピン流生成 (w/ M. Matsuo)
+![js_spp](https://github.com/DaigoOUE/ithems-new/blob/images/js_spp.png)
 
 
 ## Publication list
@@ -86,6 +86,7 @@ J. Phys.: Conf. Ser. 1220,
 - 光学理論  
 電磁場のモード解析、グリーン関数、カシミール効果・輻射伝熱、光の放射圧など、いろんな光学現象に関する計算ができます🧮
 - Keynote職人
+![keynote_craftsman](https://github.com/DaigoOUE/ithems-new/blob/images/keynote_craftsman.jpeg)
 - vim  
   エディタといえばvim
 - git  
