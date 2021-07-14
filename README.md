@@ -37,7 +37,7 @@ Imperial College London
 
 ## これまでの研究
 - カシミール効果による金属表面構造不安定性 (w/ Kun Ding, C. T. Chan & J. B. Pendry)
-![film](https://github.com/DaigoOUE/ithems-new/blob/images/film.png)
+![film](https://github.com/DaigoOUE/ithems-new/blob/images/film.jpeg)
 - 動的に変形する表面における光の非対称回折とチェレンコフ放射 (w/ Kun Ding & J. B. Pendry)
 ![META2021](https://github.com/DaigoOUE/ithems-new/blob/images/meta2021_Oue.png)
 - 表面プラズモンによるスピン流生成 (w/ M. Matsuo)
