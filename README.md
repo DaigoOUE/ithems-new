@@ -51,6 +51,12 @@ Imperial College London
 ![js_spp](https://github.com/DaigoOUE/ithems-new/blob/images/js_spp.png)
 
 
+### 最近の学会発表から
+![meta_slide2](https://github.com/DaigoOUE/ithems-new/blob/images/META21_poster-Oue/Slide2.png)
+![meta_slide3](https://github.com/DaigoOUE/ithems-new/blob/images/META21_poster-Oue/Slide3.png)
+![meta_slide4](https://github.com/DaigoOUE/ithems-new/blob/images/META21_poster-Oue/Slide4.png)
+![meta_slide5](https://github.com/DaigoOUE/ithems-new/blob/images/META21_poster-Oue/Slide5.png)
+
 ## Publication list
 ### Under review
 1. H. Nishikawa, D. Oue & M. Matsuo 
