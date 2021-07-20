@@ -1,5 +1,5 @@
 # 自己紹介 
-iTHEMS-NEW kickoff meeting 2021.07.16
+iTHEMS-NEW KOM 2021.07.16
 
 ## 大上能悟 (Oue Daigo)
 [Portfolio](http://ouedaigo.webcrow.jp/index.html)
